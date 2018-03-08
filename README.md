@@ -38,4 +38,4 @@ Afterwards, you only need to add the deviceIds to the array in the main python f
 For the Arduino, I'm using a joystick connected to X pin for the power, X pin for the ground, and X pin for the communication and data transfer. You can change this as you which in the Arduino file. 
 
 ## Launch
-Once everything is correctly setup, load the Arduino script on the Arduino, connect the Arduino to a system connected to the Internet, such as a Raspberry Pi or anything else, launch the Python script on that system, and should be able to control your TP-Link Smart Wi-Fi Plug! 
+Once everything is correctly setup, load the Arduino script on the Arduino (and specify the USB port of the Arduino), connect the Arduino to a system connected to the Internet, such as a Raspberry Pi or anything else, launch the Python script on that system, and should be able to control your TP-Link Smart Wi-Fi Plug! 
