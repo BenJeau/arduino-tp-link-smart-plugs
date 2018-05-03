@@ -13,11 +13,11 @@ Firstly, to get the token from your account, you need to do a POST request to ht
 {
   "method": "login",
   "params": {
-  "appType": "Kasa_Android",
-  "cloudUserName": "XXXXXXX",
-  "cloudPassword": "XXXXXXX",
-  "terminalUUID": "UUIDv4"
- }
+    "appType": "Kasa_Android",
+    "cloudUserName": "XXXXXXX",
+    "cloudPassword": "XXXXXXX",
+    "terminalUUID": "UUIDv4"
+   }
 }
 ```
 
